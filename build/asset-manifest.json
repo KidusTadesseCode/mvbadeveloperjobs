@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mvbadeveloperjobs.git/static/css/main.5e11ecd2.css",
+    "main.js": "/mvbadeveloperjobs.git/static/js/main.6c864984.js",
+    "index.html": "/mvbadeveloperjobs.git/index.html",
+    "main.5e11ecd2.css.map": "/mvbadeveloperjobs.git/static/css/main.5e11ecd2.css.map",
+    "main.6c864984.js.map": "/mvbadeveloperjobs.git/static/js/main.6c864984.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e11ecd2.css",
+    "static/js/main.6c864984.js"
+  ]
+}
